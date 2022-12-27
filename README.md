@@ -1,3 +1,3 @@
 # Trade-analysis-with-real-time-data-and-sentiment-analysis
 
-Trading data are analysed by both factors sentiment analysis and real-time trading data analysis
+This project used real-time data and sentiment analysis to analyze the stock market. The goal of the project was to understand how market trends and investor sentiment were impacting the performance of individual stocks and the overall market. The project involved collecting and analyzing data from various sources, including financial news articles, social media posts, and financial market data feeds. The analysis was used to identify patterns and trends in the market, and to make informed investment decisions based on this information. The project provided valuable insights into the dynamics of the stock market and helped investors make more informed decisions about their investments.
